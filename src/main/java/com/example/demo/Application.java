@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Application {
 
-	private static String title = "This is my First Bank!";
+	private static String title = "This is my First Bank! OK ";
 
 	public static String getTitle() {
 		return title;
